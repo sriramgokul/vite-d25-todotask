@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.addtodo{
+    width: 150px;
+}
+.card{
+    width: 350px;
+    height: 250px;
+}
+.TopIn{
+    width: 400px;
+}
